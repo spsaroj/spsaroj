@@ -15,8 +15,8 @@
 
 -   🤪  I’m currently learning Flutter, Data Science, Machine Learning, Django, Spring Boot;
 -   🤪  Fun-Fact: Most fun facts are not fun 😲
--   🤪  My website:  [Click here](https://spsaroj.github.io/view/index){:target="_blank"}
--   🤪 My resume: [Click here](https://spsaroj.github.io/files/CSISresume.pdf){:target="_blank"}
+-   🤪  My website:  [Click here](https://spsaroj.github.io/view/index)
+-   🤪 My resume: [Click here](https://spsaroj.github.io/files/CSISresume.pdf)
 ---
 
   
@@ -25,21 +25,21 @@
 
   
 
-[![Instagram Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://instagram.com/mygoditssaroj/)](https://twitter.com/mygoditssaroj){:target="_blank"}
+[![Instagram Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://instagram.com/mygoditssaroj/)](https://twitter.com/mygoditssaroj)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saroz-paudel-053/)](https://www.linkedin.com/in/saroz-paudel-053/){:target="_blank"}
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saroz-paudel-053/)](https://www.linkedin.com/in/saroz-paudel-053/)
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-fb3958?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/__imsaroz/)](https://instagram.com/__imsaroz){:target="_blank"}
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-fb3958?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/__imsaroz/)](https://instagram.com/__imsaroz)
 
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sp.saroj53@gmail.com)](mailto:sp.saroj53@gmail.com){:target="_blank"}
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sp.saroj53@gmail.com)](mailto:sp.saroj53@gmail.com)
 
   
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spsaroj&layout=compact)](https://github.com/anuraghazra/github-readme-stats){:target="_blank"}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spsaroj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Saroj's github stats](https://github-readme-stats.vercel.app/api?username=spsaroj&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats){:target="_blank"}
+[![Saroj's github stats](https://github-readme-stats.vercel.app/api?username=spsaroj&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
   
