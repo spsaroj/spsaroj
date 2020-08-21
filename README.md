@@ -13,17 +13,16 @@
 
 **👇👇👇👇👇👇👇:**
 
--   🤪  I’m currently learning Flutter, Data Science, Machine Learning, Django, Spring Boot;
--   🤪  Fun-Fact: Most fun facts are not fun 😲
+-   🤪  I’m currently learning Data Science and Machine Learning tools, Flutter, React, Django, Spring Boot;
 -   🤪  My website:  [Click here](https://spsaroj.github.io/view/index)
 -   🤪 My resume: [Click here](https://spsaroj.github.io/files/CSISresume.pdf)
+-   🤪  Fun-Fact: Most fun facts are not fun 😲
 ---
 
   
 
 **Find me here:**
 
-  
 
 [![Instagram Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://instagram.com/mygoditssaroj/)](https://twitter.com/mygoditssaroj)
 
