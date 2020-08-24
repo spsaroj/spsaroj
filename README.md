@@ -24,7 +24,7 @@
 **Find me here:**
 
 
-[![Instagram Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://instagram.com/mygoditssaroj/)](https://twitter.com/mygoditssaroj)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://instagram.com/mygoditssaroj/)](https://twitter.com/mygoditssaroj)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saroz-paudel-053/)](https://www.linkedin.com/in/saroz-paudel-053/)
 
