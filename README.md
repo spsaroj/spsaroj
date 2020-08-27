@@ -5,7 +5,7 @@
 > "You should be better than you were yesterday."
 
 
-<code><img height="260" width="200" align="right"  src="https://raw.githubusercontent.com/spsaroj/spsaroj/master/profile_picture.jpg"/></code>
+<code><img height="270" width="200" align="right"  src="https://raw.githubusercontent.com/spsaroj/spsaroj/master/profile_picture.jpg"/></code>
 
 
 ***I am from Nepal.* *I spent my childhood seeing all the things technology was changing and how technology was changing itself. Having seeing that, I was determined to make positive impact by using latest technological advancements.*** :grin:
