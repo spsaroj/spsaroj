@@ -1,4 +1,5 @@
 
+
   
 
 ## Namaste 🙏
@@ -13,7 +14,10 @@
 
 **👇👇👇👇👇👇👇:**
 
--   🤪  I’m currently learning Data Science and Machine Learning tools, Flutter, React, Django, Spring Boot;
+-   🤪  I’m currently learning:
+	- Data Science Tools: Hadoop Ecosystem.
+	- Mobile App Dev: iOS (SwiftUI), Flutter.
+	- Web Development: React, Django, Spring Boot.
 -   🤪  My website:  [Click here](https://spsaroj.github.io/view/index)
 -   🤪 My resume: [Click here](https://spsaroj.github.io/files/CSISresume.pdf)
 -   🤪  Fun-Fact: Most fun facts are not fun 😲
@@ -36,11 +40,11 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spsaroj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Saroj's github stats](https://github-readme-stats.vercel.app/api?username=spsaroj&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spsaroj&theme=dark" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=spsaroj&show_icons=true&theme=tokyonight&line_height=40" alt="Saroj-github-stats"/>
+</a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=spsaroj.visitor-count-badge)
