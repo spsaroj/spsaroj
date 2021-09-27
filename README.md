@@ -15,12 +15,12 @@
 **👇👇👇👇👇👇👇:**
 
 -   🤪  I’m currently learning:
-	- Data Science Tools: Hadoop Ecosystem.
-	- Mobile App Dev: iOS (SwiftUI), Flutter.
-	- Web Development: React, Django, Spring Boot.
+	- Data Science Tools: Apache Storm, Apache Kafka.
+	- Mobile App Dev: iOS (SwiftUI).
+	- Web Development: React.
+	- Golang
 -   🤪  My website:  [Click here](https://spsaroj.github.io/view/index)
 -   🤪 My resume: [Click here](https://spsaroj.github.io/files/CSISresume.pdf)
--   🤪  Fun-Fact: Most fun facts are not fun 😲
 ---
 
   
