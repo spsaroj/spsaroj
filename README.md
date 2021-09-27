@@ -19,8 +19,8 @@
 	- Mobile App Dev: iOS (SwiftUI).
 	- Web Development: React.
 	- Golang
--   🤪  My website:  [Click here](https://spsaroj.github.io/view/index)
--   🤪 My resume: [Click here](https://spsaroj.github.io/files/CSISresume.pdf)
+<!-- -   🤪  My website:  [Click here](https://spsaroj.github.io/view/index)
+-   🤪 My resume: [Click here](https://spsaroj.github.io/files/CSISresume.pdf) -->
 ---
 
   
