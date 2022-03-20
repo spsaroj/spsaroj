@@ -3,21 +3,19 @@
   
 
 ## Namaste 🙏
-> "You should be better than you were yesterday."
-
 
 <code><img height="270" width="200" align="right"  src="https://raw.githubusercontent.com/spsaroj/spsaroj/master/profile_picture.jpg"/></code>
 
 
-***I am from Nepal.* *I spent my childhood seeing all the things technology was changing and how technology was changing itself. Having seeing that, I was determined to make positive impact by using latest technological advancements.*** :grin:
+***Let's make some positive change*** :grin:
  
 
 **👇👇👇👇👇👇👇:**
 
--   🤪  I’m currently learning:
-	- Data Science Tools: Apache Storm, Apache Kafka.
-	- Mobile App Dev: iOS (SwiftUI).
-	- Web Development: React.
+-   🤪  Working on:
+	- Data Engineering
+	- iOS (SwiftUI)
+	- dapps
 	- Golang
 <!-- -   🤪  My website:  [Click here](https://spsaroj.github.io/view/index)
 -   🤪 My resume: [Click here](https://spsaroj.github.io/files/CSISresume.pdf) -->
