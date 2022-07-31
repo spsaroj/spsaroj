@@ -4,7 +4,7 @@
 
 ## Namaste 🙏
 
-<code><img height="270" width="200" align="right"  src="https://raw.githubusercontent.com/spsaroj/spsaroj/master/profile_picture.jpg"/></code>
+<code><img height="250" width="180" align="right"  src="https://raw.githubusercontent.com/spsaroj/spsaroj/master/profile_picture.jpg"/></code>
 
 
 ***Let's make some positive change*** :grin:
@@ -12,14 +12,14 @@
 
 **👇👇👇👇👇👇👇:**
 
--   🤪  Working on:
+Working on:
 	- Data Engineering
+	- Mathematics for Machine Learning
 	- iOS (SwiftUI)
-	- dapps
-	- Golang
-<!-- -   🤪  My website:  [Click here](https://spsaroj.github.io/view/index)
--   🤪 My resume: [Click here](https://spsaroj.github.io/files/CSISresume.pdf) -->
----
+	- C++
+	
+My Blog:  [Click here](https://sarozpaudel.wordpress.com)
+
 
   
 
@@ -30,7 +30,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saroz-paudel-053/)](https://www.linkedin.com/in/saroz-paudel-053/)
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-fb3958?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/__imsaroz/)](https://instagram.com/__imsaroz)
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sp.saroj53@gmail.com)](mailto:sp.saroj53@gmail.com)
 
