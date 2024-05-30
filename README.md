@@ -13,13 +13,9 @@
 **👇👇👇👇👇👇👇:**
 
 Working on:
-	- Data Engineering
-	- Mathematics for Machine Learning
-	- iOS (SwiftUI)
-	- C++
-	
-My Blog:  [Click here](https://sarozpaudel.wordpress.com)
-
+	- Algorithm and Data Structures
+	- Blockchain
+ 	- Machine Learning
 
   
 
