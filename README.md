@@ -4,32 +4,25 @@
 
 ## Namaste 🙏
 
-<code><img height="250" width="180" align="right"  src="https://raw.githubusercontent.com/spsaroj/spsaroj/master/profile_picture.jpg"/></code>
-
-
 ***Let's make some positive change*** :grin:
  
 
 **👇👇👇👇👇👇👇:**
 
-Working on:
-	- Algorithm and Data Structures
-	- Blockchain
- 	- Machine Learning
-
+- 🌱: I’m currently working on [Personal Database]("https://github.com/spsaroj/homelab-mini").
+- 🧠: I’m currently learning Data Structures and Algorithms, Neural Networks and Deep Learning. 🧠💻🤖
+- 🤔: My interests are: AI/ ML, Blockchain, Human Computer Interactions
   
 
 **Find me here:**
 
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://instagram.com/mygoditssaroj/)](https://twitter.com/mygoditssaroj)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saroz-paudel-053/)](https://www.linkedin.com/in/saroz-paudel-053/)
-
-
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sp.saroj53@gmail.com)](mailto:sp.saroj53@gmail.com)
-
-  
+<p align="center">
+	<a href="mailto:paudelsaroj1@outlook.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Outlook"/></a>
+	<a href="https://www.linkedin.com/in/saroz-paudel-053/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/spsaroj"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.youtube.com/@saroz7123"><img src="https://img.shields.io/youtube/channel/subscribers/:saroz7123" alt="Youtube"/></a>
+</p>
 
 ---
 
