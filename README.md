@@ -9,7 +9,7 @@
 
 **👇👇👇👇👇👇👇:**
 
-- 🌱: I’m currently working on [Reffero]("https://reffero.com").
+- 🌱: I’m currently working on [Reffero](https://reffero.com).
 - 🧠: I’m currently learning AI Agents, MCP. 🧠💻🤖
 - 🤔: My interests are: AI/ ML, Human Computer Interactions
   
